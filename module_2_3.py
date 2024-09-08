@@ -6,4 +6,4 @@ while index < len(my_list):
         break
     elif number > 0:
         print(number)
-        index += 1
+    index += 1
